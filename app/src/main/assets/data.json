@@ -1,0 +1,30 @@
+{
+  "data" : [
+    {
+      "title" : "峨眉电影",
+      "quality" : "标清",
+      "url" : "http://scgctvshow.sctv.com/hdlive/emei/3.m3u8"
+    },
+    {
+      "title" : "CCTV5 体育",
+      "quality" : "高清",
+      "url" : "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227166/index.m3u8"
+    },
+    {
+      "title" : "四川文化",
+      "quality" : "标清",
+      "url": "http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8"
+    },
+    {
+      "title" : "CCTV4 国际",
+      "quality" : "高清",
+      "url" : "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221227378/index.m3u8"
+    },
+    {
+      "title" : "测试电台",
+      "quality" : "流畅",
+      "url" : "http://devimages.apple.com/iphone/samples/bipbop/bipbopall.m3u8"
+    }
+  ],
+  "length": 5
+}
